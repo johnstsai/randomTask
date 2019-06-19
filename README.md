@@ -1,2 +1,0 @@
-# randomTask
-Created with CodeSandbox
